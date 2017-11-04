@@ -1,5 +1,5 @@
 {
-  "name": "nyt-react-search-take-two",
+  "name": "nytreact",
   "version": "1.0.0",
   "description": "Mongo express react node app that lets users search for nytimes articles and save them",
   "main": "server.js",
@@ -13,9 +13,6 @@
   },
   "author": "Willie Ching",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Meggin/nyt-react-search-take-two/issues"
-  },
   "dependencies": {
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
