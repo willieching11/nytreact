@@ -9,14 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Meggin/nyt-react-search-take-two.git"
+    "url": "git+https://github.com/willieching11/nytreact.git"
   },
-  "author": "Meggin Kearney",
+  "author": "Willie Ching",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Meggin/nyt-react-search-take-two/issues"
   },
-  "homepage": "https://github.com/Meggin/nyt-react-search-take-two#readme",
   "dependencies": {
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
